@@ -1,0 +1,13 @@
+# git ignore for vagrant
+.vagrant/*
+
+# git ignore for kubernetes
+kubernetes
+# git ignore for some tar
+*.tar.gz
+
+.DS_Store
+*.box
+.idea/*
+
+sample
